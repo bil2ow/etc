@@ -231,3 +231,4 @@ xattr.conf
 xdg
 xinetd.d
 xml
+.etckeeper
