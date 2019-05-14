@@ -42,7 +42,7 @@ set textwidth=80
 set wrap
 set wrapmargin=2
 
-set linebreak
+" set linebreak
 set ruler
 
 set showmatch
