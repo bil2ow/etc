@@ -1,5 +1,5 @@
 #
-# !include this file into your my.cnf (or any of *.cnf files in /etc/mysql/my.cnf.d)
+# !include this file into your my.cnf (or any of *.cnf files in /etc/my.cnf.d)
 # and it will enable data at rest encryption. This is a simple way to
 # ensure that everything that can be encrypted will be and your
 # data will not leak unencrypted.
