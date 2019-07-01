@@ -1,0 +1,12 @@
+c0
+fsharp
+git-extras
+gitkraken
+jetbrains-toolbox
+netease-cloud-music
+renderdoc-bin
+teamviewer
+tor-browser
+typora-latest
+yay
+z3-git
