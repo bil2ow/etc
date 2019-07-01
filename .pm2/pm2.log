@@ -98,3 +98,20 @@
 2019-06-30T22:18:34: PM2 log: Concurrent actions   : 2
 2019-06-30T22:18:34: PM2 log: SIGTERM timeout      : 1600
 2019-06-30T22:18:34: PM2 log: ===============================================================================
+2019-07-01T00:22:57: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2019-07-01T00:22:57: PM2 log: Exited peacefully
+2019-07-01T10:22:47: PM2 log: ===============================================================================
+2019-07-01T10:22:47: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-07-01T10:22:47: PM2 log: Time                 : Mon Jul 01 2019 10:22:47 GMT+0800 (China Standard Time)
+2019-07-01T10:22:47: PM2 log: PM2 version          : 3.5.1
+2019-07-01T10:22:47: PM2 log: Node.js version      : 11.15.0
+2019-07-01T10:22:47: PM2 log: Current arch         : x64
+2019-07-01T10:22:47: PM2 log: PM2 home             : /etc/.pm2
+2019-07-01T10:22:47: PM2 log: PM2 PID file         : /etc/.pm2/pm2.pid
+2019-07-01T10:22:47: PM2 log: RPC socket file      : /etc/.pm2/rpc.sock
+2019-07-01T10:22:47: PM2 log: BUS socket file      : /etc/.pm2/pub.sock
+2019-07-01T10:22:47: PM2 log: Application log path : /etc/.pm2/logs
+2019-07-01T10:22:47: PM2 log: Process dump file    : /etc/.pm2/dump.pm2
+2019-07-01T10:22:47: PM2 log: Concurrent actions   : 2
+2019-07-01T10:22:47: PM2 log: SIGTERM timeout      : 1600
+2019-07-01T10:22:47: PM2 log: ===============================================================================
