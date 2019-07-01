@@ -1,0 +1,16 @@
+##
+## Arch Linux repository mirrorlist
+## Filtered by mirror score from mirror status page
+## Generated on 2019-04-27
+##
+
+## China
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+## China
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+## China
+Server = https://mirrors.sjtug.sjtu.edu.cn/archlinux/$repo/os/$arch
+## China
+Server = https://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
+
+
