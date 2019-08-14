@@ -1,0 +1,6 @@
+clash-bin
+git-extras
+jetbrains-toolbox
+netease-cloud-music
+teamviewer
+yay
