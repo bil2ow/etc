@@ -1,6 +1,7 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 akonadi-calendar-tools
+aria2
 ark
 audiocd-kio
 autoconf
@@ -22,6 +23,8 @@ device-mapper
 dhcpcd
 diffutils
 discover
+docker
+docker-compose
 dolphin
 dolphin-plugins
 dotnet-sdk
