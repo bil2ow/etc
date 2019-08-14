@@ -180,6 +180,7 @@ ruby
 ruby-bundler
 rustup
 s-nail
+sbt
 screenfetch
 sddm-kcm
 sed
