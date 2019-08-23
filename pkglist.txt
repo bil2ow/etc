@@ -145,8 +145,6 @@ nano
 netctl
 netease-cloud-music
 nmap
-nodejs
-npm
 ntfs-3g
 nvidia
 opam
@@ -214,5 +212,4 @@ whois
 xdg-desktop-portal-kde
 xfsprogs
 xorg-xrandr
-yarn
 yay
