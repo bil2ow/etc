@@ -207,6 +207,7 @@ vulkan-html-docs
 vulkan-tools
 vulkan-trace
 vulkan-validation-layers
+wget
 which
 whois
 xdg-desktop-portal-kde
