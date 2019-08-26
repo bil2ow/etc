@@ -56,7 +56,6 @@ iputils
 ipython
 jdk-openjdk
 jetbrains-toolbox
-jfsutils
 julia
 less
 libtool
@@ -92,7 +91,6 @@ pciutils
 perl
 pkgconf
 procps-ng
-psmisc
 python-pip
 racket
 reiserfsprogs
