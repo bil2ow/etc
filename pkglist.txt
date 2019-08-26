@@ -62,14 +62,7 @@ jetbrains-toolbox
 jfsutils
 julia
 kdenetwork-filesharing
-kmousetool
 kompare
-krdc
-kross-interpreters
-kruler
-ksystemlog
-ktimer
-kwalletmanager
 less
 libtool
 licenses
