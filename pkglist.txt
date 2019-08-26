@@ -1,7 +1,6 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 aria2
-ark
 audiocd-kio
 autoconf
 automake
