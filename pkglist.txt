@@ -19,8 +19,6 @@ dhcpcd
 diffutils
 docker
 docker-compose
-dolphin
-dolphin-plugins
 dotnet-sdk
 e2fsprogs
 efibootmgr
@@ -81,9 +79,7 @@ kdegraphics-thumbnailers
 kdenetwork-filesharing
 kdesdk-kioslaves
 kdesdk-thumbnailers
-kdialog
 keditbookmarks
-kfind
 kfloppy
 khelpcenter
 kio-extras
