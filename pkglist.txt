@@ -86,7 +86,6 @@ kdialog
 keditbookmarks
 kfind
 kfloppy
-kgpg
 khelpcenter
 kio-extras
 kirigami-gallery
