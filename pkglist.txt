@@ -125,6 +125,7 @@ vulkan-validation-layers
 wget
 which
 whois
+xfce4-terminal
 xfsprogs
 xorg-xrandr
 yay
