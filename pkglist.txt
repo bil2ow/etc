@@ -124,5 +124,6 @@ wget
 which
 whois
 xfsprogs
+xorg-xinit
 xorg-xrandr
 yay
