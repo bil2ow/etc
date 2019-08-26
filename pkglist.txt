@@ -101,6 +101,7 @@ rustup
 s-nail
 sbt
 screenfetch
+sddm
 sed
 shadow
 smlnj
