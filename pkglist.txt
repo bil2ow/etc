@@ -61,7 +61,6 @@ julia
 less
 libtool
 licenses
-lightdm
 linux
 linux-firmware
 lldb
