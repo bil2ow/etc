@@ -61,8 +61,6 @@ jdk-openjdk
 jetbrains-toolbox
 jfsutils
 julia
-kdenetwork-filesharing
-kompare
 less
 libtool
 licenses
