@@ -1,7 +1,6 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 aria2
-audiocd-kio
 autoconf
 automake
 bash
@@ -25,9 +24,7 @@ efibootmgr
 emacs
 etckeeper
 fakeroot
-ffmpegthumbs
 file
-filelight
 filesystem
 findutils
 firefox
@@ -70,7 +67,6 @@ lldb
 llvm
 llvm-ocaml
 logrotate
-lokalize
 lvm2
 m4
 make
@@ -94,8 +90,6 @@ patch
 pciutils
 perl
 pkgconf
-poxml
-print-manager
 procps-ng
 psmisc
 python-pip
@@ -109,10 +103,8 @@ sbt
 screenfetch
 sed
 shadow
-signon-kwallet-extension
 smlnj
 sudo
-sweeper
 sysfsutils
 systemd-sysvcompat
 tar
