@@ -61,8 +61,6 @@ jdk-openjdk
 jetbrains-toolbox
 jfsutils
 julia
-kaccounts-integration
-kaccounts-providers
 kamera
 kapptemplate
 kbackup
