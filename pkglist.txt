@@ -61,9 +61,7 @@ jdk-openjdk
 jetbrains-toolbox
 jfsutils
 julia
-kamera
 kapptemplate
-kbackup
 kcachegrind
 kcalc
 kcharselect
