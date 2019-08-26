@@ -13,6 +13,7 @@ cmake
 code
 coreutils
 cryptsetup
+cvs
 device-mapper
 dhcpcd
 diffutils
@@ -84,6 +85,7 @@ openbsd-netcat
 openssh
 optimus-manager
 os-prober
+p7zip
 pacman
 pacman-contrib
 patch
@@ -103,6 +105,7 @@ sddm
 sed
 shadow
 smlnj
+subversion
 sudo
 sysfsutils
 systemd-sysvcompat
