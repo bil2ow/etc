@@ -2,5 +2,6 @@ clash-bin
 git-extras
 jetbrains-toolbox
 netease-cloud-music
+optimus-manager
 teamviewer
 yay

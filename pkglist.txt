@@ -30,7 +30,6 @@ findutils
 firefox
 fish
 flex
-freeglut
 freetype2
 gawk
 gcc
@@ -38,7 +37,6 @@ gcc-libs
 gettext
 git
 git-extras
-glew
 glibc
 go
 gparted
@@ -76,7 +74,6 @@ man-db
 man-pages
 maven
 mdadm
-mesa-demos
 nano
 netctl
 netease-cloud-music
@@ -86,6 +83,7 @@ nvidia
 opam
 openbsd-netcat
 openssh
+optimus-manager
 os-prober
 pacman
 pacman-contrib
