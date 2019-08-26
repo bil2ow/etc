@@ -108,6 +108,7 @@ sysfsutils
 systemd-sysvcompat
 tar
 teamviewer
+telegram-desktop
 texinfo
 ttf-fira-code
 usbutils
