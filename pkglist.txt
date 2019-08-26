@@ -165,7 +165,6 @@ pkgconf
 plasma-browser-integration
 plasma-desktop
 plasma-integration
-plasma-meta
 plasma-nm
 plasma-pa
 plasma-sdk
