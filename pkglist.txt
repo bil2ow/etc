@@ -62,7 +62,6 @@ iputils
 ipython
 jdk-openjdk
 jetbrains-toolbox
-julia
 less
 libtool
 licenses
