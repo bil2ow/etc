@@ -5,6 +5,7 @@ autoconf
 automake
 bash
 binutils
+bison
 bzip2
 chromium
 clash-bin
@@ -31,6 +32,8 @@ filesystem
 findutils
 firefox
 fish
+flex
+foxitreader
 freetype2
 gawk
 gcc
@@ -95,7 +98,6 @@ pkgconf
 procps-ng
 python-pip
 racket
-reiserfsprogs
 ruby
 ruby-bundler
 rustup
@@ -115,6 +117,7 @@ texinfo
 ttf-dejavu
 ttf-fira-code
 ttf-font-icons
+ttf-hack
 usbutils
 util-linux
 vim
@@ -127,8 +130,8 @@ vulkan-validation-layers
 wget
 which
 whois
+xclip
 xfce4-terminal
 xfsprogs
 xorg-xrandr
-xreader
 yay
