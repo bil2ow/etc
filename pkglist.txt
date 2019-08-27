@@ -39,7 +39,6 @@ freetype2
 gawk
 gcc
 gcc-libs
-gconf
 gettext
 git
 git-extras
