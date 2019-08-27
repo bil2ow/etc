@@ -5,7 +5,6 @@ autoconf
 automake
 bash
 binutils
-bison
 bzip2
 chromium
 clash-bin
@@ -32,7 +31,6 @@ filesystem
 findutils
 firefox
 fish
-flex
 freetype2
 gawk
 gcc
@@ -117,6 +115,7 @@ telegram-desktop
 texinfo
 ttf-dejavu
 ttf-fira-code
+ttf-font-icons
 usbutils
 util-linux
 vim
@@ -132,4 +131,5 @@ whois
 xfce4-terminal
 xfsprogs
 xorg-xrandr
+xreader
 yay
