@@ -1,5 +1,6 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
+alsa-utils
 aria2
 autoconf
 automake
@@ -76,6 +77,7 @@ make
 man-db
 man-pages
 maven
+mbedtls
 nano
 neofetch
 netctl
