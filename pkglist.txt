@@ -97,6 +97,7 @@ perl
 pkgconf
 procps-ng
 python-pip
+r
 racket
 ruby
 ruby-bundler
