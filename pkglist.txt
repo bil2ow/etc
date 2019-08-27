@@ -76,7 +76,6 @@ make
 man-db
 man-pages
 maven
-mbedtls
 nano
 neofetch
 netctl
