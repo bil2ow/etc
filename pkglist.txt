@@ -115,6 +115,7 @@ tar
 teamviewer
 telegram-desktop
 texinfo
+ttf-dejavu
 ttf-fira-code
 usbutils
 util-linux
