@@ -17,6 +17,7 @@ cvs
 device-mapper
 dhcpcd
 diffutils
+dmenu
 docker
 docker-compose
 dotnet-sdk
@@ -25,6 +26,7 @@ efibootmgr
 emacs
 etckeeper
 fakeroot
+feh
 file
 filesystem
 findutils
@@ -75,6 +77,7 @@ man-pages
 maven
 mdadm
 nano
+neofetch
 netctl
 netease-cloud-music
 nmap
@@ -100,7 +103,6 @@ ruby
 ruby-bundler
 rustup
 sbt
-screenfetch
 sddm
 sed
 shadow
