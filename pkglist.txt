@@ -8,7 +8,6 @@ bash
 binutils
 bison
 bzip2
-chromium
 clash-bin
 cmake
 code
@@ -43,7 +42,6 @@ gettext
 git
 git-extras
 glibc
-go
 gparted
 gradle
 grep
