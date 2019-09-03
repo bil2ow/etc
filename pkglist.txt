@@ -98,6 +98,7 @@ procps-ng
 python-pip
 r
 racket
+rstudio-desktop-bin
 ruby
 ruby-bundler
 rustup
