@@ -57,6 +57,7 @@ inetutils
 iproute2
 iputils
 ipython
+iwd
 jdk-openjdk
 jetbrains-toolbox
 less
