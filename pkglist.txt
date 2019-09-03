@@ -77,7 +77,6 @@ man-pages
 maven
 nano
 neofetch
-netctl
 netease-cloud-music
 nmap
 ntfs-3g
