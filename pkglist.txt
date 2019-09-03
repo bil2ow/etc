@@ -131,7 +131,6 @@ vulkan-validation-layers
 wget
 which
 whois
-wicd
 xclip
 xfce4-screenshooter
 xfce4-terminal
