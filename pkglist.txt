@@ -60,8 +60,6 @@ vulkan-trace
 wget
 whois
 xclip
-xfce4-screenshooter
-xfce4-terminal
 xmonad
 xorg-xmodmap
 xss-lock
