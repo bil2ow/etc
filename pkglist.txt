@@ -44,7 +44,6 @@ git
 git-extras
 glibc
 gparted
-gradle
 grep
 grub
 gzip
