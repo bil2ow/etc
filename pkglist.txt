@@ -1,7 +1,6 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 alsa-utils
-arandr
 aria2
 autoconf
 automake
@@ -48,7 +47,6 @@ sbt
 sddm
 smlnj
 telegram-desktop
-tmux
 ttf-fira-code
 ttf-hack
 usbutils
@@ -59,7 +57,5 @@ vulkan-tools
 vulkan-trace
 wget
 whois
-xclip
 xmonad-contrib
 xorg-xmodmap
-xss-lock
