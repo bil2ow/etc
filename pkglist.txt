@@ -1,6 +1,7 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 alsa-utils
+arandr
 aria2
 autoconf
 automake
