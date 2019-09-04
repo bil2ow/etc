@@ -24,7 +24,7 @@
 ## Automatically indent a newly created line to the same number of
 ## tabs and/or spaces as the preceding line -- or as the next line
 ## if the preceding line is the beginning of a paragraph.
-set autoindent
+# set autoindent
 
 ## Back up files to the current filename plus a tilde.
 # set backup
@@ -136,7 +136,7 @@ set linenumbers
 # set rebinddelete
 
 ## Do extended regular expression searches by default.
-# set regexp
+set regexp
 
 ## Put the cursor on the highlighted item in the file browser, and show
 ## the cursor in the help viewer; useful for people who use a braille
