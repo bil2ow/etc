@@ -7,14 +7,12 @@ autoconf
 automake
 bash
 binutils
-bison
 bzip2
 clash-bin
 cmake
 code
 coreutils
 cryptsetup
-cvs
 device-mapper
 dhcpcd
 diffutils
@@ -33,7 +31,6 @@ filesystem
 findutils
 firefox
 fish
-flex
 foxitreader
 freetype2
 gawk
@@ -74,7 +71,6 @@ m4
 make
 man-db
 man-pages
-maven
 nano
 neofetch
 netease-cloud-music
