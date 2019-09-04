@@ -8,7 +8,6 @@ automake
 bison
 cmake
 code
-compton
 dhcpcd
 docker-compose
 dos2unix
