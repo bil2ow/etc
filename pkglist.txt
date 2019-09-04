@@ -137,4 +137,5 @@ xfce4-terminal
 xfsprogs
 xorg-xmodmap
 xorg-xrandr
+xss-lock
 yay
