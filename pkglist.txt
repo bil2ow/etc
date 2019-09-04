@@ -79,7 +79,6 @@ ntfs-3g
 nvidia
 opam
 openblas
-openbsd-netcat
 openssh
 optimus-manager
 os-prober
