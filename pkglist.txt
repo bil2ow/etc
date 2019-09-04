@@ -10,7 +10,6 @@ cmake
 code
 compton
 dhcpcd
-dmenu
 docker-compose
 dos2unix
 dotnet-sdk
@@ -26,6 +25,7 @@ inetutils
 iputils
 ipython
 iwd
+kitty
 licenses
 llvm-ocaml
 logrotate
@@ -49,6 +49,7 @@ sbt
 sddm
 smlnj
 telegram-desktop
+tmux
 ttf-fira-code
 ttf-hack
 usbutils
@@ -60,6 +61,6 @@ vulkan-trace
 wget
 whois
 xclip
-xmonad
+xmonad-contrib
 xorg-xmodmap
 xss-lock
