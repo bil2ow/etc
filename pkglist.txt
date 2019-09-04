@@ -39,7 +39,6 @@ freetype2
 gawk
 gcc
 gcc-libs
-gconf
 gettext
 git
 git-extras
@@ -120,6 +119,7 @@ ttf-dejavu
 ttf-fira-code
 ttf-font-icons
 ttf-hack
+typora
 usbutils
 util-linux
 vim

@@ -7,4 +7,5 @@ optimus-manager
 rstudio-desktop-bin
 teamviewer
 ttf-font-icons
+typora
 yay
