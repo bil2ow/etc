@@ -48,6 +48,7 @@ smlnj
 telegram-desktop
 ttf-fira-code
 ttf-hack
+ttf-inconsolata
 usbutils
 vim
 vulkan-extra-layers
