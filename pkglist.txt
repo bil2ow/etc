@@ -1,5 +1,6 @@
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
+alsa-utils
 arandr
 aria2
 autoconf
@@ -9,6 +10,7 @@ cmake
 code
 compton
 dhcpcd
+dmenu
 docker-compose
 dos2unix
 dotnet-sdk
@@ -19,8 +21,6 @@ fish
 flex
 gparted
 grub
-i3-gaps
-i3blocks
 ibus-libpinyin
 inetutils
 iputils
