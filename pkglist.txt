@@ -44,7 +44,6 @@ rofi
 ruby-bundler
 rustup
 sbt
-sddm
 smlnj
 telegram-desktop
 ttf-fira-code
