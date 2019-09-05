@@ -1,8 +1,10 @@
 adobe-source-han-sans-otc-fonts
 aria2
+aspell-en
 autoconf
 automake
 bison
+cmake
 code
 compton
 dhcpcd
@@ -56,6 +58,5 @@ vulkan-tools
 vulkan-trace
 wget
 whois
-xmobar
-xmonad-contrib
 xorg-xinit
+xorg-xmessage
