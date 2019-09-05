@@ -44,7 +44,6 @@ racket
 rofi
 ruby-bundler
 rustup
-sbt
 smlnj
 telegram-desktop
 ttf-fira-code
