@@ -17,7 +17,6 @@ fish
 flex
 gparted
 grub
-ibus
 inetutils
 iputils
 ipython
