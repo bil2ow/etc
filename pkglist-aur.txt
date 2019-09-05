@@ -1,5 +1,4 @@
 clash-bin
-fcitx5-git
 foxitreader
 git-extras
 jetbrains-toolbox
@@ -8,4 +7,5 @@ optimus-manager
 rstudio-desktop-bin
 teamviewer
 ttf-font-icons
+typora
 yay

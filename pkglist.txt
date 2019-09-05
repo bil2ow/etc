@@ -16,7 +16,6 @@ etckeeper
 firefox
 fish
 flex
-gconf
 gparted
 grub
 i3blocks
