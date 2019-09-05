@@ -12,7 +12,6 @@ dos2unix
 dotnet-sdk
 emacs
 etckeeper
-fcitx
 firefox
 fish
 flex
