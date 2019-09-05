@@ -1,4 +1,5 @@
 clash-bin
+fcitx5-git
 foxitreader
 git-extras
 jetbrains-toolbox
