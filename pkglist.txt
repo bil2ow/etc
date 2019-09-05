@@ -10,16 +10,12 @@ docker-compose
 dos2unix
 dotnet-sdk
 emacs
-enchant
 etckeeper
-extra-cmake-modules
 firefox
 fish
 flex
-fmt
 gparted
 grub
-inetutils
 iputils
 ipython
 iwd
@@ -61,4 +57,4 @@ wget
 whois
 xmobar
 xmonad-contrib
-xorg-xmodmap
+xorg-xinit
