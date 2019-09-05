@@ -17,7 +17,7 @@ fish
 flex
 gparted
 grub
-ibus-libpinyin
+ibus
 inetutils
 iputils
 ipython
@@ -40,6 +40,7 @@ p7zip
 patch
 pkgconf
 racket
+rofi
 ruby-bundler
 rustup
 sbt
@@ -57,5 +58,6 @@ vulkan-tools
 vulkan-trace
 wget
 whois
+xmobar
 xmonad-contrib
 xorg-xmodmap
