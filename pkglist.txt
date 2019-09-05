@@ -5,6 +5,7 @@ autoconf
 automake
 bison
 code
+compton
 dhcpcd
 docker-compose
 dos2unix
