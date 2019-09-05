@@ -1,5 +1,4 @@
 adobe-source-han-sans-otc-fonts
-alsa-utils
 aria2
 autoconf
 automake
@@ -17,6 +16,7 @@ fish
 flex
 gparted
 grub
+i3blocks
 iputils
 ipython
 iwd
