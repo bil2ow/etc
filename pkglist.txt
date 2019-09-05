@@ -50,7 +50,6 @@ ttf-fira-code
 ttf-hack
 ttf-inconsolata
 usbutils
-vim
 vulkan-extra-layers
 vulkan-html-docs
 vulkan-tools
