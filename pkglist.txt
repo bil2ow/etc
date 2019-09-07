@@ -19,6 +19,7 @@ firefox
 fish
 flex
 gparted
+gradle
 grub
 i3blocks
 iputils
