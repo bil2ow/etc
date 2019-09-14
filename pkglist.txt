@@ -1,9 +1,12 @@
 adobe-source-han-sans-otc-fonts
+alsa-utils
 aria2
 aspell-en
 autoconf
 automake
 bison
+bluez
+bluez-utils
 cmake
 code
 dhcpcd
