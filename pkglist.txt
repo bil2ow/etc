@@ -48,6 +48,7 @@ nvidia
 opam
 p7zip
 patch
+pdfpc
 pkgconf
 pulseaudio-bluetooth
 racket
