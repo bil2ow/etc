@@ -53,6 +53,7 @@ racket
 rofi
 ruby-bundler
 rustup
+sddm
 smlnj
 telegram-desktop
 ttf-fira-code
