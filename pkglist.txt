@@ -26,7 +26,6 @@ grub
 i3blocks
 iputils
 ipython
-iwd
 kitty
 licenses
 llvm-ocaml
@@ -42,6 +41,10 @@ nvidia
 opam
 openssh
 p7zip
+pantheon-files
+pantheon-photos
+pantheon-screenshot
+pantheon-shortcut-overlay
 patch
 pkgconf
 pulseaudio-bluetooth
