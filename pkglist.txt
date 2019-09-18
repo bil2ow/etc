@@ -24,6 +24,7 @@ gnome-clocks
 gnome-common
 gnome-logs
 gnome-photos
+gnome-power-manager
 gnome-remote-desktop
 gnome-screenshot
 gnome-shell-extensions
