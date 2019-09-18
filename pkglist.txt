@@ -12,6 +12,7 @@ dhcpcd
 docker-compose
 dos2unix
 dotnet-sdk
+elementary-icon-theme
 emacs
 etckeeper
 fcitx-cloudpinyin
