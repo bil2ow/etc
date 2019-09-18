@@ -4,6 +4,7 @@ aria2
 aspell-en
 bison
 bluez-utils
+calibre
 cmake
 code
 deepin-calendar
