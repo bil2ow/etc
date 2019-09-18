@@ -26,6 +26,7 @@ gdm
 gedit
 gnome-books
 gnome-calculator
+gnome-calendar
 gnome-characters
 gnome-clocks
 gnome-common
@@ -41,7 +42,6 @@ gnome-shell-extensions
 gnome-system-monitor
 gnome-terminal
 gnome-tweaks
-gnome-weather
 gparted
 gradle
 grub
