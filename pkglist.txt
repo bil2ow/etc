@@ -13,7 +13,6 @@ dos2unix
 dotnet-sdk
 emacs
 eog
-epiphany
 etckeeper
 fcitx-cloudpinyin
 fcitx-configtool
@@ -23,7 +22,6 @@ firefox
 fish
 flex
 gdm
-gedit
 gnome-books
 gnome-calculator
 gnome-calendar

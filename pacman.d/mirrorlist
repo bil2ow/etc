@@ -3,7 +3,10 @@
 ## Filtered by mirror score from mirror status page
 ## Generated on 2019-08-01
 ##
+## China
 Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.163.com/archlinux/$repo/os/$arch
 
 ## France
 Server = http://mirror.lastmikoi.net/archlinux/$repo/os/$arch
@@ -47,7 +50,6 @@ Server = http://archlinux.mirror.ba/$repo/os/$arch
 Server = http://mirror.internode.on.net/pub/archlinux/$repo/os/$arch
 ## United States
 Server = http://arch.mirror.square-r00t.net/$repo/os/$arch
-## China
 ## Bulgaria
 Server = http://mirrors.netix.net/archlinux/$repo/os/$arch
 ## Germany
@@ -210,14 +212,10 @@ Server = http://mirror.dal10.us.leaseweb.net/archlinux/$repo/os/$arch
 Server = http://linux.rz.rub.de/archlinux/$repo/os/$arch
 ## Slovakia
 Server = http://tux.rainside.sk/archlinux/$repo/os/$arch
-## China
-Server = http://mirrors.163.com/archlinux/$repo/os/$arch
 ## Chile
 Server = http://mirror.ufro.cl/archlinux/$repo/os/$arch
 ## Singapore
 Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
-## China
-Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
 ## United States
 Server = http://distro.ibiblio.org/archlinux/$repo/os/$arch
 ## New Zealand
