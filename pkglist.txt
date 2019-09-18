@@ -47,6 +47,7 @@ opam
 p7zip
 patch
 pkgconf
+pulseaudio-bluetooth
 racket
 ruby-bundler
 rustup
