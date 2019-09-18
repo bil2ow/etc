@@ -8,9 +8,11 @@ cmake
 code
 deepin-calendar
 deepin-image-viewer
+deepin-picker
+deepin-screen-recorder
+deepin-screenshot
 deepin-session-ui
 deepin-system-monitor
-deepin-turbo
 dhcpcd
 docker-compose
 dos2unix
