@@ -31,7 +31,6 @@ gnome-system-monitor
 gparted
 gradle
 grub
-i3blocks
 iputils
 ipython
 kitty
