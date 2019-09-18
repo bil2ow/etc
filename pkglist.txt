@@ -20,6 +20,7 @@ fcitx-gtk3
 firefox
 fish
 flex
+gnome-backgrounds
 gnome-books
 gnome-clocks
 gnome-logs
@@ -28,6 +29,7 @@ gnome-remote-desktop
 gnome-screenshot
 gnome-shell-extensions
 gnome-system-monitor
+gnome-tweaks
 gparted
 gradle
 grub
