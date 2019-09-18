@@ -50,7 +50,6 @@ p7zip
 patch
 pkgconf
 racket
-rofi
 ruby-bundler
 rustup
 sddm
