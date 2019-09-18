@@ -5,7 +5,6 @@ aspell-en
 autoconf
 automake
 bison
-bluez
 bluez-utils
 cmake
 code
@@ -45,6 +44,7 @@ openssh
 p7zip
 patch
 pkgconf
+pulseaudio-bluetooth
 racket
 rofi
 ruby-bundler
