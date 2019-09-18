@@ -7,6 +7,11 @@ bison
 bluez-utils
 cmake
 code
+deepin-calendar
+deepin-image-viewer
+deepin-session-ui
+deepin-system-monitor
+deepin-turbo
 dhcpcd
 docker-compose
 dos2unix
@@ -17,11 +22,9 @@ etckeeper
 fcitx-cloudpinyin
 fcitx-configtool
 fcitx-gtk3
-file-roller
 firefox
 fish
 flex
-gdm
 gnome-books
 gnome-calculator
 gnome-calendar
