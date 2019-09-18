@@ -32,10 +32,10 @@ grub
 inetutils
 iputils
 ipython
-kitty
 licenses
 llvm-ocaml
 logrotate
+luajit
 make
 man-db
 man-pages
