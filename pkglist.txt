@@ -30,7 +30,6 @@ gnome-calendar
 gnome-characters
 gnome-clocks
 gnome-common
-gnome-contacts
 gnome-disk-utility
 gnome-documents
 gnome-font-viewer
