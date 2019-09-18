@@ -28,6 +28,7 @@ iputils
 ipython
 kitty
 licenses
+lightdm
 llvm-ocaml
 logrotate
 lvm2
