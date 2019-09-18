@@ -1,5 +1,4 @@
 clash-bin
-foxitreader
 git-extras
 jetbrains-toolbox
 netease-cloud-music
