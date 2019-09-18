@@ -18,7 +18,6 @@ fcitx-gtk3
 firefox
 fish
 flex
-gnome-backgrounds
 gnome-books
 gnome-clocks
 gnome-common
@@ -26,6 +25,7 @@ gnome-logs
 gnome-photos
 gnome-power-manager
 gnome-remote-desktop
+gnome-screensaver
 gnome-screenshot
 gnome-shell-extensions
 gnome-system-monitor
