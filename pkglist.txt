@@ -26,7 +26,6 @@ gdm
 gedit
 gnome-books
 gnome-calculator
-gnome-calendar
 gnome-characters
 gnome-clocks
 gnome-common
@@ -39,7 +38,6 @@ gnome-power-manager
 gnome-screensaver
 gnome-screenshot
 gnome-shell-extensions
-gnome-software
 gnome-system-monitor
 gnome-terminal
 gnome-tweaks
