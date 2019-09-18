@@ -29,6 +29,7 @@ gnome-boxes
 gnome-calculator
 gnome-calendar
 gnome-characters
+gnome-chess
 gnome-clocks
 gnome-common
 gnome-contacts
@@ -46,6 +47,7 @@ gnome-screensaver
 gnome-screenshot
 gnome-shell-extensions
 gnome-software
+gnome-sudoku
 gnome-system-monitor
 gnome-terminal
 gnome-todo
