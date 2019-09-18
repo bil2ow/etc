@@ -2,8 +2,6 @@ adobe-source-han-sans-otc-fonts
 alsa-utils
 aria2
 aspell-en
-autoconf
-automake
 bison
 bluez-utils
 cmake
@@ -23,6 +21,7 @@ flex
 gnome-backgrounds
 gnome-books
 gnome-clocks
+gnome-common
 gnome-logs
 gnome-photos
 gnome-remote-desktop
