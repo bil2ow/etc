@@ -28,7 +28,6 @@ gnome-remote-desktop
 gnome-screenshot
 gnome-shell-extensions
 gnome-system-monitor
-gnome-terminal
 gparted
 gradle
 grub
