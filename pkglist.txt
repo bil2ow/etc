@@ -67,3 +67,4 @@ wget
 whois
 xorg-xmessage
 xorg-xmodmap
+xpdf
