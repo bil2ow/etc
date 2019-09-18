@@ -31,6 +31,7 @@ gnome-system-monitor
 gparted
 gradle
 grub
+inetutils
 iputils
 ipython
 kitty
@@ -65,5 +66,5 @@ vulkan-tools
 vulkan-trace
 wget
 whois
-xorg-xinit
 xorg-xmessage
+xorg-xmodmap
