@@ -6,7 +6,6 @@ aspell-en
 bison
 bluez-utils
 calibre
-cmake
 code
 deepin-calendar
 deepin-editor
@@ -56,6 +55,7 @@ optimus-manager
 patch
 pkgconf
 pulseaudio-bluetooth
+qtcreator
 racket
 rstudio-desktop-bin
 ruby-bundler
