@@ -1,5 +1,6 @@
 adobe-source-han-sans-otc-fonts
 alsa-utils
+archlinuxcn-keyring
 aria2
 aspell-en
 bison
@@ -8,6 +9,7 @@ calibre
 cmake
 code
 deepin-calendar
+deepin-editor
 deepin-image-viewer
 deepin-picker
 deepin-screen-recorder
@@ -26,6 +28,7 @@ fcitx-gtk3
 firefox
 fish
 flex
+git-extras
 gnome-common
 gnome-power-manager
 gnome-screensaver
@@ -44,21 +47,26 @@ man-db
 man-pages
 nano
 neofetch
+netease-cloud-music
 nmap
 nvidia
 opam
+optimus-manager
 p7zip
 patch
 pkgconf
 pulseaudio-bluetooth
 racket
+rstudio-desktop-bin
 ruby-bundler
 rustup
 smlnj
+teamviewer
 telegram-desktop
 ttf-fira-code
 ttf-hack
 ttf-inconsolata
+typora
 usbutils
 vulkan-extra-layers
 vulkan-html-docs
@@ -68,3 +76,5 @@ wget
 whois
 xorg-xmessage
 xorg-xmodmap
+yay
+zeal
