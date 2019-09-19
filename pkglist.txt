@@ -16,6 +16,7 @@ deepin-screen-recorder
 deepin-screenshot
 deepin-session-ui
 deepin-system-monitor
+deepin.com.qq.office
 dhcpcd
 docker-compose
 dos2unix
@@ -52,7 +53,6 @@ nmap
 nvidia
 opam
 optimus-manager
-p7zip
 patch
 pkgconf
 pulseaudio-bluetooth
