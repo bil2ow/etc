@@ -31,7 +31,6 @@ flex
 git-extras
 gnome-common
 gnome-power-manager
-gnome-screensaver
 gparted
 gradle
 grub
