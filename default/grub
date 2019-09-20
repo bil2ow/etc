@@ -10,6 +10,5 @@ GRUB_GFXPAYLOAD_LINUX=keep
 GRUB_PRELOAD_MODULES="part_gpt part_msdos"
 GRUB_SAVEDEFAULT=true
 GRUB_TERMINAL_INPUT=console
-GRUB_THEME="/boot/grub/themes/deepin/theme.txt"
 GRUB_TIMEOUT=5
 GRUB_TIMEOUT_STYLE=menu
