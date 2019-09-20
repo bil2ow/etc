@@ -37,7 +37,6 @@ inetutils
 iputils
 ipython
 licenses
-linux
 linux-lts
 llvm-ocaml
 logrotate
