@@ -4,7 +4,6 @@ archlinuxcn-keyring
 aria2
 aspell-en
 bison
-bluez-utils
 calibre
 code
 deepin-calendar
@@ -38,6 +37,7 @@ inetutils
 iputils
 ipython
 licenses
+linux
 linux-lts
 llvm-ocaml
 logrotate
