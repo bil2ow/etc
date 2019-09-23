@@ -31,6 +31,7 @@ gparted
 gradle
 grub
 gvfs
+ibus-libpinyin
 inetutils
 iputils
 licenses
