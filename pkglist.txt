@@ -78,6 +78,7 @@ vulkan-tools
 vulkan-trace
 wget
 whois
+xclip
 xorg-xmessage
 xorg-xmodmap
 yay
