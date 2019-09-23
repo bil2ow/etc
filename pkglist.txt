@@ -20,6 +20,7 @@ fcitx-gtk3
 firefox
 fish
 flex
+gdm
 git-extras
 gnome-logs
 gnome-photos
