@@ -9,7 +9,6 @@ bison
 calibre
 code
 deepin-anything-dkms
-deepin.com.qq.office
 dhcpcd
 docker-compose
 dos2unix
