@@ -28,14 +28,12 @@ firefox
 fish
 flex
 git-extras
-gnome-common
 gnome-power-manager
 gparted
 gradle
 grub
 inetutils
 iputils
-ipython
 licenses
 linux-lts
 llvm-ocaml
