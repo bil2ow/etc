@@ -29,6 +29,7 @@ gnome-screenshot
 gnome-shell-extensions
 gnome-system-monitor
 gnome-terminal
+gnome-tweaks
 gparted
 gradle
 grub
