@@ -21,7 +21,13 @@ firefox
 fish
 flex
 git-extras
+gnome-logs
+gnome-photos
 gnome-power-manager
+gnome-screenshot
+gnome-shell-extensions
+gnome-system-monitor
+gnome-terminal
 gparted
 gradle
 grub
@@ -32,7 +38,6 @@ licenses
 linux-lts
 llvm-ocaml
 logrotate
-luajit
 man-db
 man-pages
 nano
@@ -44,7 +49,6 @@ opam
 optimus-manager
 p7zip
 pkgconf
-pulseaudio-bluetooth
 qtcreator
 racket
 rstudio-desktop-bin
