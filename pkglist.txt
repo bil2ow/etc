@@ -30,7 +30,6 @@ gnome-tweaks
 gparted
 gradle
 grub
-gvfs
 ibus-libpinyin
 inetutils
 iputils
@@ -62,7 +61,6 @@ tmux
 ttf-fira-code
 ttf-hack
 ttf-inconsolata
-typora
 usbutils
 vulkan-extra-layers
 vulkan-html-docs
