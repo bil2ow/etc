@@ -35,7 +35,6 @@ grub
 ibus-libpinyin
 inetutils
 iputils
-julia
 licenses
 linux-lts
 llvm-ocaml
