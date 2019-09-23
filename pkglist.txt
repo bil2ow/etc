@@ -8,6 +8,7 @@ autoconf
 automake
 bison
 calibre
+clash
 code
 dhcpcd
 docker-compose
@@ -42,6 +43,7 @@ logrotate
 man-db
 man-pages
 nano
+nautilus
 neofetch
 netease-cloud-music
 nmap
@@ -63,6 +65,8 @@ tmux
 ttf-fira-code
 ttf-hack
 ttf-inconsolata
+ttf-iosevka
+ttf-symbola
 typora
 usbutils
 vulkan-extra-layers
