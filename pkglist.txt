@@ -1,5 +1,6 @@
 adobe-source-han-sans-otc-fonts
 alsa-utils
+anaconda
 archlinuxcn-keyring
 aria2
 aspell-en
