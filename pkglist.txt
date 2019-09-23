@@ -8,7 +8,6 @@ automake
 bison
 calibre
 code
-deepin-anything-dkms
 dhcpcd
 docker-compose
 dos2unix
@@ -34,8 +33,8 @@ linux-lts
 llvm-ocaml
 logrotate
 luajit
+man-db
 man-pages
-man-pages-zh_cn
 nano
 neofetch
 netease-cloud-music
