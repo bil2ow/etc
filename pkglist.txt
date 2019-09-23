@@ -27,6 +27,7 @@ gnome-power-manager
 gparted
 gradle
 grub
+gvfs
 inetutils
 iputils
 licenses
