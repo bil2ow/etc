@@ -8,14 +8,7 @@ automake
 bison
 calibre
 code
-deepin-calendar
-deepin-editor
-deepin-image-viewer
-deepin-picker
-deepin-screen-recorder
-deepin-screenshot
-deepin-session-ui
-deepin-system-monitor
+deepin-anything-dkms
 deepin.com.qq.office
 dhcpcd
 docker-compose
