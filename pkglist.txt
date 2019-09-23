@@ -20,7 +20,6 @@ etckeeper
 firefox
 fish
 flex
-gdm
 git-extras
 gnome-logs
 gnome-photos
