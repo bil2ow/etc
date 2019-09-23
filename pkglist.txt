@@ -43,6 +43,7 @@ nmap
 nvidia-dkms
 opam
 optimus-manager
+p7zip
 pkgconf
 pulseaudio-bluetooth
 qtcreator
