@@ -1,7 +1,7 @@
 # Written by com.deepin.daemon.Grub2
 GRUB_BACKGROUND=
 GRUB_CMDLINE_LINUX=""
-GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet nvidia-drm.modeset=1"
+GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet"
 GRUB_DEFAULT=saved
 GRUB_DISABLE_RECOVERY=true
 GRUB_DISTRIBUTOR="Arch"
