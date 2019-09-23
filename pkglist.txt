@@ -57,6 +57,7 @@ rustup
 smlnj
 teamviewer
 telegram-desktop
+texmacs
 tmux
 ttf-fira-code
 ttf-hack
