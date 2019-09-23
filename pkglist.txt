@@ -3,6 +3,8 @@ alsa-utils
 archlinuxcn-keyring
 aria2
 aspell-en
+autoconf
+automake
 bison
 calibre
 code
