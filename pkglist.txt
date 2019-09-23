@@ -8,6 +8,7 @@ autoconf
 automake
 bison
 calibre
+check
 clash
 code
 dhcpcd
@@ -29,6 +30,7 @@ gnome-shell-extensions
 gnome-system-monitor
 gnome-terminal
 gnome-tweaks
+gobject-introspection
 gparted
 gradle
 grub
@@ -79,4 +81,5 @@ whois
 xorg-xmessage
 xorg-xmodmap
 yay
+yelp-tools
 zeal
