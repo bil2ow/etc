@@ -32,6 +32,7 @@ gnome-tweaks
 gparted
 gradle
 grub
+hub
 ibus-libpinyin
 inetutils
 iputils
