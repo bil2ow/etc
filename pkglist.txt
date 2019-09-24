@@ -8,6 +8,7 @@ autoconf
 automake
 bison
 calibre
+ccache
 check
 clash
 code
@@ -66,6 +67,7 @@ smlnj
 teamviewer
 telegram-desktop
 texmacs
+tldr
 tmux
 ttf-fira-code
 ttf-hack
