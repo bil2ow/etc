@@ -58,10 +58,12 @@ nvidia-dkms
 opam
 optimus-manager
 pkgconf
+python-pipenv
 qtcreator
 racket
 rstudio-desktop-bin
 ruby-bundler
+ruby-rdoc
 rustup
 smlnj
 teamviewer
