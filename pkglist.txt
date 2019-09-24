@@ -44,7 +44,6 @@ llvm-ocaml
 logrotate
 man-db
 man-pages
-mc
 nano
 nautilus
 neofetch
@@ -53,6 +52,7 @@ nmap
 nvidia-dkms
 opam
 optimus-manager
+p7zip
 pkgconf
 qtcreator
 racket
