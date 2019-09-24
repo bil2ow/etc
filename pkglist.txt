@@ -29,9 +29,11 @@ gnome-shell-extensions
 gnome-system-monitor
 gnome-terminal
 gnome-tweaks
+go
 gobject-introspection
 gparted
 gradle
+graphviz
 grub
 hub
 ibus-libpinyin
@@ -41,6 +43,7 @@ julia
 licenses
 linux-lts
 llvm-ocaml
+loc
 logrotate
 man-db
 man-pages
@@ -54,6 +57,9 @@ opam
 optimus-manager
 p7zip
 pkgconf
+python-pillow
+python-webob
+python-xlib
 qtcreator
 racket
 rstudio-desktop-bin
