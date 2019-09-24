@@ -57,9 +57,6 @@ opam
 optimus-manager
 p7zip
 pkgconf
-python-pillow
-python-webob
-python-xlib
 qtcreator
 racket
 rstudio-desktop-bin
