@@ -41,6 +41,7 @@ ibus-libpinyin
 inetutils
 iputils
 julia
+keybase
 licenses
 linux-lts
 llvm-ocaml
