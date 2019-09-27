@@ -58,7 +58,10 @@ nvidia-dkms
 opam
 optimus-manager
 pkgconf
+python-pillow
 python-pipenv
+python-webob
+python-xlib
 qtcreator
 racket
 rstudio-desktop-bin

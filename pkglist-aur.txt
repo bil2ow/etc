@@ -1,4 +1,3 @@
 gdm-prime
 jetbrains-toolbox
 ttf-font-icons
-youdao-dict
