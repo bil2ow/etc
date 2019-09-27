@@ -1,6 +1,5 @@
 adobe-source-han-sans-otc-fonts
 alsa-utils
-anaconda
 archlinuxcn-keyring
 aria2
 aspell-en
@@ -11,6 +10,7 @@ calibre
 ccache
 check
 clash
+cmark
 code
 dhcpcd
 docker-compose
@@ -40,7 +40,7 @@ hub
 ibus-libpinyin
 inetutils
 iputils
-julia
+julia-docs
 keybase
 licenses
 linux-lts
