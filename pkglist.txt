@@ -34,6 +34,7 @@ gnome-terminal
 gnome-tweaks
 go
 gobject-introspection
+google-chrome
 gparted
 gradle
 graphviz
@@ -60,10 +61,12 @@ nvidia-dkms
 opam
 optimus-manager
 pkgconf
+postman-bin
 python-pillow
 python-pipenv
 python-webob
 python-xlib
+python2-docopt
 qtcreator
 racket
 rstudio-desktop-bin
@@ -92,6 +95,7 @@ whois
 xclip
 xorg-xmessage
 xorg-xmodmap
+yarn
 yay
 yelp-tools
 zeal
