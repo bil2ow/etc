@@ -13,6 +13,7 @@ check
 clash
 cmark
 code
+composer
 dhcpcd
 docker-compose
 dos2unix
