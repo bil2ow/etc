@@ -55,6 +55,7 @@ mc
 nano
 nautilus
 neofetch
+neovim
 netease-cloud-music
 nmap
 nvidia-dkms
@@ -92,7 +93,6 @@ vulkan-tools
 vulkan-trace
 wget
 whois
-xclip
 xorg-xmessage
 xorg-xmodmap
 yarn
