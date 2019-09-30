@@ -10,7 +10,6 @@ bison
 calibre
 ccache
 check
-clash
 cmark
 code
 composer

@@ -1,3 +1,4 @@
+clash-dev
 gdm-prime
 jetbrains-toolbox
 ttf-font-icons
