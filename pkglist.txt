@@ -87,6 +87,7 @@ ttf-iosevka
 ttf-symbola
 typora
 usbutils
+vlc
 vulkan-extra-layers
 vulkan-html-docs
 vulkan-tools
