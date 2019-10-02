@@ -24,6 +24,7 @@ fish
 flex
 gimp
 git-extras
+gitkraken
 gnome-logs
 gnome-photos
 gnome-power-manager
