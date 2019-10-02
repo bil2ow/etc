@@ -15,6 +15,7 @@ code
 composer
 dhcpcd
 docker-compose
+docker-machine-driver-kvm2
 dos2unix
 dotnet-sdk
 emacs
@@ -38,7 +39,6 @@ gobject-introspection
 google-chrome
 gparted
 gradle
-graphviz
 grub
 hub
 ibus-libpinyin
