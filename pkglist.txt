@@ -1,7 +1,6 @@
 1password-cli
 adobe-source-han-sans-otc-fonts
 alsa-utils
-android-sdk-platform-tools
 archlinuxcn-keyring
 aria2
 aspell-en
