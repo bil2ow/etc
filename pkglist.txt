@@ -66,6 +66,7 @@ nvidia-dkms
 opam
 optimus-manager
 pkgconf
+postgresql
 postman-bin
 python-pillow
 python-pipenv
