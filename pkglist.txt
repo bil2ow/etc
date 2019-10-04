@@ -78,6 +78,7 @@ rstudio-desktop-bin
 ruby-rdoc
 rustup
 smlnj
+stack-bin
 teamviewer
 telegram-desktop
 texmacs
@@ -103,4 +104,5 @@ xorg-xmodmap
 yarn
 yay
 yelp-tools
+z3
 zeal
