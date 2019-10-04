@@ -75,6 +75,7 @@ python-xlib
 python2-docopt
 qtcreator
 racket
+redis
 rstudio-desktop-bin
 ruby-rdoc
 rustup
