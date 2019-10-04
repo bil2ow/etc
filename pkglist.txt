@@ -1,6 +1,7 @@
 1password-cli
 adobe-source-han-sans-otc-fonts
 alsa-utils
+android-tools
 archlinuxcn-keyring
 aria2
 aspell-en
@@ -77,7 +78,6 @@ rstudio-desktop-bin
 ruby-rdoc
 rustup
 smlnj
-spotify
 teamviewer
 telegram-desktop
 texmacs
