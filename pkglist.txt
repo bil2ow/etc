@@ -67,6 +67,7 @@ optimus-manager
 pkgconf
 postgresql
 postman-bin
+processing
 python-pillow
 python-pipenv
 python-webob
