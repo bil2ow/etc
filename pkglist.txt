@@ -48,7 +48,6 @@ iputils
 julia-docs
 licenses
 linux-lts
-llvm-ocaml
 loc
 logrotate
 man-db
@@ -101,6 +100,7 @@ vulkan-tools
 vulkan-trace
 wget
 whois
+xorg-xinput
 xorg-xmessage
 xorg-xmodmap
 yarn
