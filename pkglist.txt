@@ -41,6 +41,7 @@ gobject-introspection
 google-chrome
 gparted
 gradle
+graphviz
 grub
 hub
 ibus-libpinyin
@@ -66,8 +67,6 @@ opam
 optimus-manager
 pkgconf
 postgresql
-postman-bin
-processing
 python-pillow
 python-pipenv
 python-webob

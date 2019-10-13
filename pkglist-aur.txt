@@ -1,3 +1,4 @@
+chez-scheme-git
 clash-dev
 gdm-prime
 jetbrains-toolbox
