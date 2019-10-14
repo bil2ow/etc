@@ -93,6 +93,7 @@ ttf-iosevka
 ttf-symbola
 typora
 usbutils
+v2ray
 virt-manager
 vlc
 vulkan-extra-layers
