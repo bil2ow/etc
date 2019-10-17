@@ -76,6 +76,7 @@ python2-docopt
 qtcreator
 racket
 redis
+repo
 rstudio-desktop-bin
 ruby-rdoc
 rustup
