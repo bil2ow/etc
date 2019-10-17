@@ -82,7 +82,6 @@ ruby-rdoc
 rustup
 smlnj
 stack-bin
-tcsh
 teamviewer
 telegram-desktop
 texmacs
