@@ -45,8 +45,8 @@ grub
 hub
 ibus-libpinyin
 iputils
-ipython
 julia-docs
+jupyterlab
 licenses
 linux-lts
 loc
