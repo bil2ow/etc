@@ -57,6 +57,7 @@ orca
 patch
 pkgconf
 racket
+rustup
 smlnj
 teamviewer
 telegram-desktop
