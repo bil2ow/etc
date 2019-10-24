@@ -57,6 +57,8 @@ orca
 patch
 pkgconf
 racket
+ruby-bundler
+ruby-rdoc
 rustup
 smlnj
 teamviewer
