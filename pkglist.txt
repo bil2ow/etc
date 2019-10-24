@@ -1,8 +1,10 @@
 archlinuxcn-keyring
+autoconf
+automake
 baobab
 base
+bison
 blackarch-keyring
-busybox
 ccache
 clion
 code
@@ -10,9 +12,12 @@ emacs
 eog
 etckeeper
 exfat-utils
+fakeroot
 file-roller
 firefox
 fish
+flex
+font-mathematica
 gdm
 gedit
 gnome-backgrounds
@@ -32,8 +37,10 @@ gnome-system-monitor
 gnome-tweaks
 gnome-user-docs
 grub
+hexchat
 hub
 ibus-libpinyin
+inetutils
 intellij-idea-ultimate-edition
 julia
 kitty
@@ -47,6 +54,8 @@ neofetch
 nmap
 nvidia
 orca
+patch
+pkgconf
 racket
 smlnj
 teamviewer
