@@ -81,6 +81,7 @@ turbostat
 typora
 usbip
 v2ray
+vim
 vino
 vlc
 wqy-microhei
