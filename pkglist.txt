@@ -47,6 +47,7 @@ inetutils
 intellij-idea-ultimate-edition
 julia
 kitty
+loc
 make
 man-db
 man-pages
@@ -76,4 +77,5 @@ wqy-microhei
 xdg-user-dirs-gtk
 yarn
 yay
+zeal
 zsh
