@@ -62,6 +62,7 @@ nautilus
 neofetch
 nmap
 nvidia
+opam
 orca
 patch
 pkgconf
@@ -71,6 +72,7 @@ ruby-bundler
 ruby-rdoc
 rustup
 smlnj
+stack-bin
 teamviewer
 telegram-desktop
 tmon
