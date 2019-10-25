@@ -52,7 +52,6 @@ man-db
 man-pages
 mousetweaks
 nano
-nautilus
 neofetch
 nmap
 nvidia
