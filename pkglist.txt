@@ -43,6 +43,7 @@ gnome-tweaks
 gnome-user-docs
 grpc
 grub
+gvim
 hexchat
 hub
 hyperv
@@ -81,7 +82,6 @@ turbostat
 typora
 usbip
 v2ray
-vim
 vino
 vlc
 wqy-microhei
