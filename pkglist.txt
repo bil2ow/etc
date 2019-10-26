@@ -1,3 +1,4 @@
+ack
 archlinuxcn-keyring
 autoconf
 automake
@@ -10,6 +11,7 @@ ccache
 cgroup_event_listener
 clion
 code
+cowsay
 cpupower
 emacs
 eog
@@ -71,6 +73,7 @@ racket
 ruby-bundler
 ruby-rdoc
 rustup
+sl
 smlnj
 stack-bin
 teamviewer
