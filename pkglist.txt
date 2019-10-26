@@ -41,7 +41,6 @@ gnome-shell-extensions
 gnome-system-monitor
 gnome-tweaks
 gnome-user-docs
-grpc
 grub
 gvim
 hexchat
