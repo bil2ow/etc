@@ -76,7 +76,6 @@ rustup
 sl
 smlnj
 stack-bin
-steam
 teamviewer
 telegram-desktop
 tmon
