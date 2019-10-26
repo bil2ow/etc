@@ -79,6 +79,7 @@ stack-bin
 teamviewer
 telegram-desktop
 tmon
+tor-browser
 ttf-iosevka
 turbostat
 typora
