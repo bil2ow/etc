@@ -9,6 +9,7 @@ blackarch-keyring
 bpf
 ccache
 cgroup_event_listener
+chromium
 clion
 code
 cowsay
@@ -44,7 +45,6 @@ gnome-system-monitor
 gnome-tweaks
 gnome-user-docs
 grub
-gvim
 hexchat
 hub
 hyperv
@@ -76,6 +76,7 @@ rustup
 sl
 smlnj
 stack-bin
+steam
 teamviewer
 telegram-desktop
 tmon
