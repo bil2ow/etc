@@ -27,6 +27,7 @@ font-mathematica
 gdm
 gedit
 gnome-backgrounds
+gnome-books
 gnome-boxes
 gnome-calculator
 gnome-characters
@@ -81,6 +82,8 @@ teamviewer
 telegram-desktop
 tmon
 tor-browser
+ttf-fira-code
+ttf-hack
 ttf-iosevka
 turbostat
 typora
