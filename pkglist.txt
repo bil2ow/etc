@@ -1,5 +1,7 @@
 ack
+android-tools
 archlinuxcn-keyring
+aria2-fast
 autoconf
 automake
 baobab
