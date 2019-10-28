@@ -49,8 +49,8 @@ hexchat
 hub
 hyperv
 ibus-libpinyin
-inetutils
 intellij-idea-ultimate-edition
+iw
 julia
 kitty
 libtraceevent
