@@ -89,6 +89,7 @@ ttf-iosevka
 turbostat
 typora
 usbip
+usbutils
 v2ray
 vino
 vlc
