@@ -1,4 +1,5 @@
 ack
+android-sdk
 android-tools
 archlinuxcn-keyring
 aria2-fast
