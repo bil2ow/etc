@@ -1,4 +1,5 @@
 ack
+android-studio
 android-tools
 android-udev
 archlinuxcn-keyring
