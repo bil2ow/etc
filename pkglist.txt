@@ -94,6 +94,7 @@ usbip
 usbutils
 v2ray
 vino
+virt-manager
 vlc
 wqy-microhei
 x86_energy_perf_policy
