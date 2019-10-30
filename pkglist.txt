@@ -28,6 +28,7 @@ font-mathematica
 gdm
 gedit
 git-lfs
+github-desktop
 gnome-backgrounds
 gnome-books
 gnome-boxes
@@ -50,7 +51,6 @@ gnome-user-docs
 grub
 hexchat
 hostapd
-hub
 hyperv
 ibus-libpinyin
 intellij-idea-ultimate-edition
