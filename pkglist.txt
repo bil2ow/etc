@@ -20,7 +20,6 @@ emacs
 eog
 etckeeper
 exfat-utils
-fakeroot
 file-roller
 firefox
 fish
