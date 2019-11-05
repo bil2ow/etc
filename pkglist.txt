@@ -10,6 +10,7 @@ baobab
 base
 blackarch-keyring
 bpf
+bsdiff
 cgroup_event_listener
 chromium
 clion
@@ -52,6 +53,7 @@ hexchat
 hostapd
 hyperv
 ibus-libpinyin
+img2sdat-git
 intellij-idea-ultimate-edition
 iw
 julia
@@ -77,6 +79,7 @@ racket
 ruby-bundler
 ruby-rdoc
 rustup
+sdat2img-git
 sl
 smlnj
 stack-bin
