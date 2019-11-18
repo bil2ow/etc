@@ -101,6 +101,10 @@ v2ray
 vino
 virt-manager
 vlc
+vulkan-extra-layers
+vulkan-html-docs
+vulkan-tools
+vulkan-trace
 wqy-microhei
 x86_energy_perf_policy
 xdg-user-dirs-gtk
