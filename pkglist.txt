@@ -46,6 +46,7 @@ gnome-shell-extension-appindicator-git
 gnome-shell-extension-dash-to-dock
 gnome-shell-extensions
 gnome-system-monitor
+gnome-terminal
 gnome-tweaks
 gnome-user-docs
 grub
@@ -74,6 +75,7 @@ opam
 orca
 patch
 pkgconf
+qt5-virtualkeyboard
 qtcreator
 racket
 ruby-bundler
