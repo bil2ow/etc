@@ -27,6 +27,7 @@ fish
 font-mathematica
 gdm
 gedit
+git-extras
 git-lfs
 github-desktop
 gnome-backgrounds
