@@ -93,6 +93,7 @@ tor-browser
 ttf-fira-code
 ttf-hack
 ttf-iosevka
+ttf-jetbrains-mono
 turbostat
 typora
 usbip
